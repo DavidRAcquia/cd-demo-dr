@@ -25,7 +25,7 @@
         "drupal/token": "^8.1",
         "drupal/admin_toolbar": "^8.1",
         "drush/drush": "~8.0",
-        "drupal/admin_toolbar":"^8.1,
+        "drupal/admin_toolbar":"^8.1",
         "drupal/console": "~0.10"
     },
     "repositories": [
